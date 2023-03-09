@@ -1,0 +1,8 @@
+.header {
+    background-color: aqua;
+}
+
+.lista{
+    display: inline block;
+    margin: 0 16px
+}
